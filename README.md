@@ -7,11 +7,12 @@ Welcome! This is the Branch2 Frontend Developer Test, where you will complete sm
 Your first task is to setup Twitter Bootstrap and use its prewritten HTML grid classes ("col-xs-6" for example) to make the sample page (index.html) look better. 
 
 Here's what you need to do:
+- [ ] Set up a Github account if you don't already have one. 
 - [ ] Fork this repository and clone your fork on your computer
 - [ ] Go to [getbootstrap.com](http://getbootstrap.com) and download the necessary files
 - [ ] Use the Bootstrap getting started guide to add Bootstrap to index.html
 - [ ] Add a container div around all the content
-- [ ] Add the row class around each test's content (see comments)
+- [ ] Add the row class inside container (see comments in code)
 - [ ] Add as many CSS classes from Bootstrap as you see fit (columns, forms, etc.)
 
 ### *Bonus points:*
