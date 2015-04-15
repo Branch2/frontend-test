@@ -13,7 +13,7 @@ Here's what you need to do:
 - [ ] Use the Bootstrap getting started guide to add Bootstrap to index.html
 - [ ] Add a container div around all the content
 - [ ] Add the row class inside container (see comments in code)
-- [ ] Add as many CSS classes from Bootstrap as you see fit (columns, forms, etc.)
+- [ ] Add as many CSS classes from Bootstrap as you see fit and any custom CSS you want
 
 ### *Bonus points:*
 Setup Grunt and LESS to compile Bootstrap and any custom LESS that you write
@@ -26,23 +26,21 @@ Your next task involves AngularJS, the JavaScript library we use for every appli
 
 Here's what you need to do:
 - [x] Complete Task 1 
+- [x] Include AngularJS in the index.html file. This is already done for you.
 - [ ] Optional: Complete [AngularJS CodeSchool Course](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
-- [ ] Include AngularJS in the index.html file. "The Basics" section on [AngularJS.org](http://angularjs.org) can show how.
-- [ ] Create the following JavaScript files in the /js folder: app.js, controllers.js, services.js
-- [ ] Include the three JavaScript files from above in the index.html page
-- [ ] Set up the Angular app and instantiate a new controller. Use ng-controller and ng-app in index.html to connect these. 
-- [ ] Set up a service that uses $http to call the Colr API with a GET request for a random number of colors: http://www.colr.org/json/colors/random/4. You'll want to replace the 4 with a URL parameter.
+- [ ] Putting all JavaScript code in task2.js, set up a service that uses $http to call the Colr API with a GET request for a random number of colors: http://www.colr.org/json/colors/random/4. You'll want to replace the 4 with a URL parameter.
 - [ ] In index.html, make the form element bind to the $scope by using ng-model
-- [ ] Use the Controller to call the service when the user clicks the button, sending the number entered on the form as the parameter for number of random colors to receive
+- [ ] Use the MainController to call the service when the user clicks the button, sending the number entered on the form as the parameter for number of random colors to receive
 - [ ] In the box on the right, display just the "hex" property of each color returned using ng-repeat
 
 ### *Bonus points:*
 - [ ] Instead of displaying the hex codes, make a grid of small squares that have the background-color of the colors returned.
+- [ ] Create a service for calling the API to replace the use of $http (commit before doing this so we can view your code with $http version too)
 - [ ] Implement a Firebase database connection. Be creative.
 
 Commit and push your changes with a commit message of how long this task took you, then move on to the next task!
 
-## Task 3: D3.js
+## Task 3: D3.js (Not set up yet)
 Your third task involves creating a D3.js line graph and bar graph. D3 is a visualization library that is used heavily by Branch2. Since it is difficult to integrate on a page using AngularJS, switch to the task3.html file for this task. You will create both a bar chart and a line graph in this task. The data sets are already in place for you in the time-series.js and sports-data.js files. 
 
 Here's what you need to do:
