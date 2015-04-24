@@ -57,8 +57,8 @@ Commit and push your changes with a commit message of how long this task took yo
 ## Task 4: Ionic Goal Tracking
 This task is based on a simplified version of a typical project at Branch2. You will need to develop an app using Ionic Framework that meets the following requirements:
 - [ ] Users have accounts and can log in
-- [ ] Users set goals for themselves with two parts - the name of the activity, and how many times per day they would like to complete this. (See mockup)
-- [ ] Users can track how many times they have completed that activity that day. (See mockups).
+- [ ] Users set goals for themselves with two parts - the name of the activity, and how many times per day they would like to complete this. (See mockup in goal-tracking.png)
+- [ ] Users can track how many times they have completed that activity that day. (See mockup in goal-tracking.png).
 
 Use of a backend API such as FireBase is required. FireBase is recommended but not required, and if you choose to use another backend technology please communicate that in the README.md file for the project. Include any other needed info in the README as well.
 
