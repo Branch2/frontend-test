@@ -1,0 +1,26 @@
+[
+	{
+		"name"			: 	"Starting Line",
+		"datetime"		: 	"2015-06-01T12:00:00.000Z",
+		"location"		: 	"New York City, NY",
+		"description"	:	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"name"			: 	"Chicago Checkpoint",
+		"datetime"		: 	"2015-06-04T12:00:00.000Z",
+		"location"		: 	"Chicago, IL",
+		"description"	:	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"name"			: 	"Corn Palace",
+		"datetime"		: 	"2015-06-05T12:00:00.000Z",
+		"location"		: 	"Mitchell, SD",
+		"description"	:	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"name"			: 	"Finish Line",
+		"datetime"		: 	"2015-06-09T12:00:00.000Z",
+		"location"		: 	"San Francisco, CA",
+		"description"	:	"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+]

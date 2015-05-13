@@ -41,18 +41,9 @@ Here's what you need to do:
 Commit and push your changes with a commit message of how long this task took you, then move on to the next task!
 
 ## Task 3: D3.js (Not set up yet)
-Your third task involves creating a D3.js line graph and bar graph. D3 is a visualization library that is used heavily by Branch2. Since it is difficult to integrate on a page using AngularJS, switch to the task3.html file for this task. You will create both a bar chart and a line graph in this task. The data sets are already in place for you in the time-series.js and sports-data.js files. 
+Task 3 involves creating a simple timeline of events from a theoretical cross-country journey. Use the files in /task3 to create this visualization. There is events.json and a mockup of what the timeline could look like. Feel free to be creative with this task with design, interactions, even adding data!
 
-Here's what you need to do:
-- [ ] Include D3.js on the task3.html page
-- [ ] Using the time-series.js file filled with data, create a line graph. It doesn't need to be anything fancy but it should be 400 pixels wide and 400 pixels tall.
-- [ ] Using the sports-data.js file filled with categorical data, create a bar graph. It doesn't need to be anything fancy but it should be 400 pixels wide and 400 pixels tall.
-
-### *Bonus points:*
-- [ ] Implement a legend for each graph
-- [ ] Implement these on the index.html file, where AngularJS interrupts. You'll need to use Angular Directives to solve this. 
-
-Commit and push your changes with a commit message of how long this task took you, then move on to the next task!
+Fork this repo (or create your own), implement the timeline, commit your files, and send us a link to the repo!
 
 ## Task 4: Ionic Goal Tracking
 This task is based on a simplified version of a typical project at Branch2. You will need to develop an app using Ionic Framework that meets the following requirements:
