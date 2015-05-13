@@ -40,7 +40,7 @@ Here's what you need to do:
 
 Commit and push your changes with a commit message of how long this task took you, then move on to the next task!
 
-## Task 3: D3.js (Not set up yet)
+## Task 3: D3.js
 Task 3 involves creating a simple timeline of events from a theoretical cross-country journey. Use the files in /task3 to create this visualization. There is events.json and a mockup of what the timeline could look like. Feel free to be creative with this task with design, interactions, even adding data!
 
 Fork this repo (or create your own), implement the timeline, commit your files, and send us a link to the repo!
